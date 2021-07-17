@@ -1,0 +1,6 @@
+API_ENDPOINT = "ovh-eu"
+APPKEY = ''
+APPSEC = ''
+USERKEY = '' 
+SRV_NAME = ''
+CONN_TASK_CTRL = 2
